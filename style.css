@@ -1,0 +1,39 @@
+.father{
+    width: 600px;
+    height: 600px;
+    border: 4px solid #999;
+}
+
+.lose{
+    width: 200px;
+    height:100px;
+    background-color: royalblue;
+    position: absolute;
+    left: 225px;
+    top: 300px;
+    display: none;
+}
+
+.lose > p{
+    text-align: center;
+}
+
+.lose > h6{
+    text-align: center;
+}
+
+.frog{
+    background-color: red;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    left: 300px;
+    top: 600px;
+}
+
+.car{
+    background-color: black;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+}
